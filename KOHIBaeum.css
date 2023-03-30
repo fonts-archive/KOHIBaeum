@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'KOHI Baeum';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KOHIBaeum/KOHIBaeum.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KOHIBaeum/KOHIBaeum.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KOHIBaeum/KOHIBaeum.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KOHIBaeum/KOHIBaeum.woff2') format('woff2');
+}
