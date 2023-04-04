@@ -15,7 +15,7 @@ font-family: 'KOHI Baeum';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KOHIBaeum/KOHIBaeum.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KOHIBaeum/KOHIBaeum.css" type="text/css"/>
 ```
 
 &nbsp;
